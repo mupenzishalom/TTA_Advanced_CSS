@@ -8,10 +8,23 @@
     padding: 0px 5px;
 }
 
-.display-static{
+.content-2{
+    border: 1.5px solid green;
+    background-color: aqua;
+}
+
+.position-static{
     border: 1.5px solid green;
     background-color: aqua;
     position: static;
     top: 12px;
     right: 67px;
+}
+
+.position-relative{
+    border: 1.5px solid green;
+    background-color: aqua;
+    position: relative;
+    top: 30px;
+    left: 45px;
 }
